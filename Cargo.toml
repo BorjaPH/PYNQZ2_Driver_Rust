@@ -2,7 +2,7 @@
 name = "pynq_leds"
 version = "0.1.0"
 edition = "2021"
-build = "build.rs"         # ← Añade esta línea
+build = "build.rs"
 
 [dependencies]
 libc = "0.2"
